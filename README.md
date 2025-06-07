@@ -7,6 +7,18 @@ Each project is organized in its own folder with code, data, documentation, and 
 - [Prediction of fate of animals in shelter based on admission data]()
 
 
+🧑‍💻Technologies Used
+
+  - Python 3.12
+  - Jupyter Notebook
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - Matplotlib
+  - Seaborn
+  - sqlalchemy
+  - SQL
+
 
 ## 📦 Installation
 
@@ -16,17 +28,8 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/yourusername/ml-experiments.git
 cd ml-experiments
 pip install -r requirements.txt
+```
 
+🙌 Contributions
 
-
-Technologies Used
-
-Python 3.12
-Jupyter Notebook
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
-sqlalchemy
-SQL
+Feel free to fork this repo, explore the projects, and contribute improvements!
